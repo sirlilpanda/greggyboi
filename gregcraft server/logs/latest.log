@@ -1,0 +1,110 @@
+[19:38:06] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:38:06] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_251]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_251]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_251]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_251]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_251]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_251]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_251]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_251]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:97) [lv.class:?]
+[19:39:32] [Server thread/INFO]: Loading properties
+[19:39:32] [Server thread/INFO]: Default game type: SURVIVAL
+[19:39:32] [Server thread/INFO]: Generating keypair
+[19:39:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:40:18] [Server thread/INFO]: Preparing level "gregcraft_world"
+[19:40:20] [Server thread/WARN]: Unable to find spawn biome
+[19:40:22] [Server thread/WARN]: Unable to find spawn biome
+[19:40:23] [Server thread/WARN]: Unable to find spawn biome
+[19:40:23] [Server thread/INFO]: Preparing start region for level 0
+[19:40:25] [Server thread/INFO]: Preparing spawn area: 4%
+[19:40:26] [Server thread/INFO]: Preparing spawn area: 5%
+[19:40:27] [Server thread/INFO]: Preparing spawn area: 8%
+[19:40:29] [Server thread/INFO]: Preparing spawn area: 11%
+[19:40:30] [Server thread/INFO]: Preparing spawn area: 13%
+[19:40:31] [Server thread/INFO]: Preparing spawn area: 15%
+[19:40:32] [Server thread/INFO]: Preparing spawn area: 21%
+[19:40:33] [Server thread/INFO]: Preparing spawn area: 24%
+[19:40:34] [Server thread/INFO]: Preparing spawn area: 28%
+[19:40:35] [Server thread/INFO]: Preparing spawn area: 32%
+[19:40:36] [Server thread/INFO]: Preparing spawn area: 38%
+[19:40:38] [Server thread/INFO]: Preparing spawn area: 45%
+[19:40:39] [Server thread/INFO]: Preparing spawn area: 51%
+[19:40:40] [Server thread/INFO]: Preparing spawn area: 56%
+[19:40:41] [Server thread/INFO]: Preparing spawn area: 61%
+[19:40:42] [Server thread/INFO]: Preparing spawn area: 64%
+[19:40:43] [Server thread/INFO]: Preparing spawn area: 70%
+[19:40:44] [Server thread/INFO]: Preparing spawn area: 76%
+[19:40:45] [Server thread/INFO]: Preparing spawn area: 81%
+[19:40:47] [Server thread/INFO]: Preparing spawn area: 85%
+[19:40:48] [Server thread/INFO]: Preparing spawn area: 88%
+[19:40:50] [Server thread/INFO]: Preparing spawn area: 93%
+[19:40:50] [Server thread/INFO]: Done (32.479s)! For help, type "help" or "?"
+[19:40:58] [Server thread/WARN]: .\cloud-network.properties does not exist
+[19:40:58] [Server thread/INFO]: Generating new properties file
+[19:41:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7102ms behind, skipping 142 tick(s)
+[19:41:15] [User Authenticator #1/INFO]: UUID of player RainbowExpert41 is 08c053eb-b41a-4266-b8d1-762b81b7e96a
+[19:41:16] [Server thread/INFO]: RainbowExpert41 lost connection: TextComponent{text='Mod rejections [FMLMod:ThermalFoundation{1.7.10R1.2.6}, FMLMod:ThermalDynamics{1.7.10R1.2.1}, FMLMod:ThermalExpansion{1.7.10R4.1.5}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:41:16] [Server thread/INFO]: RainbowExpert41 left the game
+[19:41:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4503ms behind, skipping 90 tick(s)
+[19:44:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3096ms behind, skipping 61 tick(s)
+[19:55:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3375ms behind, skipping 67 tick(s)
+[19:57:21] [User Authenticator #2/INFO]: UUID of player RainbowExpert41 is 08c053eb-b41a-4266-b8d1-762b81b7e96a
+[19:57:22] [Server thread/INFO]: RainbowExpert41[/127.0.0.1:53447] logged in with entity id 3566 at (903.5, 62.0, 1006.5)
+[19:57:22] [Server thread/INFO]: RainbowExpert41 joined the game
+[19:57:25] [Server thread/INFO]: RainbowExpert41 has just earned the achievement [You've been installed!]
+[19:57:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8052ms behind, skipping 161 tick(s)
+[19:58:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 46387ms behind, skipping 927 tick(s)
+[19:58:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4244ms behind, skipping 84 tick(s)
+[19:59:05] [Server thread/INFO]: RainbowExpert41 has just earned the achievement [Taking Inventory]
+[19:59:25] [Server thread/INFO]: RainbowExpert41 has just earned the achievement [Learning to Tinker]
+[20:00:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 95751ms behind, skipping 1915 tick(s)
+[20:00:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3661ms behind, skipping 73 tick(s)
+[20:01:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16366ms behind, skipping 327 tick(s)
+[20:01:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4575ms behind, skipping 91 tick(s)
+[20:01:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12336ms behind, skipping 246 tick(s)
+[20:02:15] [Server thread/INFO]: [RainbowExpert41: Given [Grass] * 64 to RainbowExpert41]
+[20:02:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15942ms behind, skipping 318 tick(s)
+[20:02:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5163ms behind, skipping 103 tick(s)
+[20:02:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17710ms behind, skipping 354 tick(s)
+[20:02:57] [Server thread/INFO]: RainbowExpert41 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:02:57] [Server thread/INFO]: RainbowExpert41 left the game
+[20:03:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4849ms behind, skipping 96 tick(s)
+[20:03:09] [Server thread/INFO]: Stopping the server
+[20:03:09] [Server thread/INFO]: Stopping server
+[20:03:09] [Server thread/INFO]: Saving players
+[20:03:09] [Server thread/INFO]: Saving worlds
+[20:03:09] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Overworld
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Nether
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/The End
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Moon
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Mars
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Asteroids
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Spirit World
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Torment
+[20:03:10] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Mirror
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/The Outer Lands
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Diona
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Koentus
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Polongnius
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Underdark
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Nibiru
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Fronos
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Kapteyn B
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Sirius B
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Mercury
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Venus
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Pluto
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Deimos
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Phobos
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Dark Asteroids
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Dungeons
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Wyvern Lair
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Aether
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/The Last Millenium
+[20:03:11] [Server thread/INFO]: Saving chunks for level 'gregcraft_world'/Jupiter
